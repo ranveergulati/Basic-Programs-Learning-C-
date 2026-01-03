@@ -1,2 +1,2 @@
-# Basic-Programs-Learning-C-
-Made these programs while learning basic C++.
+# Basic-Programs-Learning-C++
+I made these programs while learning basic C++. 
